@@ -1,4 +1,16 @@
 [
+    {
+    "name": "Dinas Kebakaran Kota  Kupang",
+    "description": "Dinas Pendidikan dan Kebudayan: \n-Kepala Kantor =  Ev. Bailaen. \n-Nomor Telepon = (0380) 821467. \n-Email = damkarkotkup@rocketmail.com.   \n- Website = http://www.damkarkotkup.go.id . \n-Jam Operasional = 08.00-15.00.",
+    "categorie": "Jalan Arif Rahman - Kota Kupang – NTT",
+    "img": "https://firebasestorage.googleapis.com/v0/b/gis-perkantoran.appspot.com/o/Dinas%20Kebakaran.jpg?alt=media&token=7720c610-293f-4a9d-ab4e-64b5f43e81dc"
+   },
+   {
+    "name": "Dinas Perumahan Rakyat Dan Kawasan Permukiman Kota Kupang",
+    "description": "Dinas Perumahan Rakyat Dan Kawasan Permukiman Kota Kupang: \n-Kepala Kantor =  Benny Sain. \n-Nomor Telepon = (0380) 825578. \n-Email = dpupur222@gnail.com   \n- Website = http://www.damkarkotkup.go.id . \n-Jam Operasional = 08.00-15.00.",
+    "categorie": "Jalan  S. K. Lerik, Kelapa Lima - Kota Kupang – NTT",
+    "img": "https://firebasestorage.googleapis.com/v0/b/gis-perkantoran.appspot.com/o/dinas%20perumahan%20rakyat%20dan%20permukiman.jpg?alt=media&token=d63755ce-855e-4ffd-adc7-7f950557e1d3"
+   },
   {
     "name": "Dinas Pendidikan dan Kebudayan",
     "description": "Dinas Pendidikan dan Kebudayan: \n-Kepala Kantor = Drs. JERHANS A. LEDOH. \n-Nomor Telepon = (0380) 834437. \n-Email = diknas2460@yahoo.co.id.   \n- Website = http://www.pendidikan.kupangkota.go.id . \n-Jam Operasional = 08.00-15.00.",
@@ -86,7 +98,20 @@
   {  
   "name": "Dinas Perindustrian Dan Perdagangan",
     "description": "Dinas Lingkungan Hidup Dan Kebersihan: \n-Drs. Mesakh Revael Bailaen \n-Nomor Telepon =  (0380) 822690 \n-Email :dpdpkotkup@yahoo.com \n- Website : - \n-Jam Operasional : 08.00-15.00.",
-    "categorie": "Jl. Frans Seda Kota Kupang NTT",
+    "categorie": "Jl. Arif Rahman Kota Kupang NTT",
     "img": "https://firebasestorage.googleapis.com/v0/b/gis-perkantoran.appspot.com/o/dinas%20perindustrian%20dan%20perdagangan.jpg?alt=media&token=377b6258-b1dc-4afa-ab2b-9ddafa463206"
-  } 
+  },
+	{  
+  "name": "Dinas Perhubungan Kota Kupang",
+    "description": "Dinas Perhubungan: \n-Drs. Yorgens Leka SH \n-Nomor Telepon =  (0380) 824606 \n-Email :perhubungankotkup@gmail.com \n- Website : - \n-Jam Operasional : 08.00-15.00.",
+    "categorie": "Jl. SK Lerik, Kota Kupang NTT",
+    "img": "https://firebasestorage.googleapis.com/v0/b/gis-perkantoran.appspot.com/o/Dinas%20perhubungan.jpg?alt=media&token=d29ada16-220c-4096-a096-84723663ba69"
+  },   
+  {  
+  "name": "Dinas Tenaga Kerja Dan Transmigrasi Kota Kupang",
+    "description": "Dinas Tenaga Kerja Dan Transmigrasi: \n-Yerri S. Padji Kana \n-Nomor Telepon =  (0380) 822283 \n-Email :tenagakerjatransmigrasivgkk@yahoo.com \n- Website : - \n-Jam Operasional : 08.00-15.00.",
+    "categorie": "Jl. Timor Raya, Kota Kupang NTT",
+    "img": "https://firebasestorage.googleapis.com/v0/b/gis-perkantoran.appspot.com/o/dinas%20tenaga%20kerja%20dan%20transmigrasi.jpg?alt=media&token=ef632d83-090b-4340-97c6-2198c95d6a28"
+  }   
+  
 ]
